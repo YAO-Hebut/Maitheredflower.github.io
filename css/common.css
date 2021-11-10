@@ -44,7 +44,7 @@
     margin:12px 15px 0;
 }
 .arrow-icon::after{
-    content:'\e904';
+    content:'';
     font-family: 'icomoon';
     margin-left: 9px;
 }
